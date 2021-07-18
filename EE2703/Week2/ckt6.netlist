@@ -1,0 +1,10 @@
+.circuit
+V0 n1 GND ac 1 0 #gfgdsdk
+#hkdghglrk
+R1 n1 n2 4500
+L1 n2 n3 80.96e-6
+C1 n3 GND 2.485e-12
+L2 n3 n4 80.96e-6
+R2 n4 GND 4000 #isddgh
+.end #hskdgbjd
+.ac V 1000
